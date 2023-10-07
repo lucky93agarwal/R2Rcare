@@ -28,7 +28,7 @@ const CustomButton = (props) => {
                 fontWeight: "400",
                 fontSize: 15
             }}>{props.title}</Text>
-            <Image source={props.rightIcon=="user"?user:null} resizeMode="contain" style={{ width:props.rightIcon=="user"? 20:0, height: 20,marginHorizontal:props.rightIcon=="user"?10:0 }} />
+            <Image source={props.rightIcon=="user"?user:user} resizeMode="contain" style={{ width:props.rightIcon=="user"? 20:0, height: 20,marginHorizontal:props.rightIcon=="user"?10:0 }} />
         </TouchableOpacity>
     );
 }
