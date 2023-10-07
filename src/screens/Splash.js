@@ -1,5 +1,4 @@
 
-import { NavigationContainer } from '@react-navigation/native';
 import logo from '../assets/icons/logo.png';
 import React, {useEffect} from 'react';
 import {
@@ -18,8 +17,9 @@ import '../utils/global';
 
 const SplashScreenComponent = ({navigation}) => {
   useEffect(()=>{
+    console.warn("Splash screen");
     setTimeout(() => {
- //     navigation.navigation('Version', {name: 'Jane'});
+      navigation.navigate('Login', {name: 'Jane'});
     }, 5000);
   },[])
   return (

@@ -13,6 +13,14 @@ global.invitedByAFriend = 'Invited by a friend?';
 global.enterCode = 'Enter code';
 global.alreadyAUser = 'Already a user?';
 global.logIn = 'Log In';
+global.signIn = 'Sign In';
+global.signInAndGetYour = 'Sign in and get your..';
+global.emailAddress = 'Email Address';
+global.dontHaveAnAccount = 'Don\'t have an account?';
+global.signUp = 'Sign Up.';
+
+
+global.password = 'Password';
 
 global.welcomeToDreamPlus = 'Welcome to Dream +';
 global.readyToStartWinning = 'Ready to start winning? Swipe left to learn the basics of fantasy sports.';
