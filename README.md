@@ -1,16 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ## Screen
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/5231b535-1aab-4afb-a3f6-0bac5d5a7460" width="200" title="Splash Screen"/>
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/2cd3d1cc-7faf-4007-8707-89cad33848aa" width="200"  title="Version Update Screen"/>
+<img src="https://github.com/lucky93agarwal/R2Rcare/assets/53622073/41050fd8-fe96-4bb4-9345-45555ba79076" width="200" title="Splash Screen"/>
+<img src="https://github.com/lucky93agarwal/R2Rcare/assets/53622073/1e86af00-b17d-4e66-afe4-11c21933eb67" width="200"  title="Login Screen"/>
 
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/7b234b03-7560-4ffc-ba11-63bef1abfb7b" width="200" title="Language Screen"/>
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/d0f02c1f-3003-41c9-ab91-58580d37e93d" width="200" title="Welcome Screen"/>
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/e8e783e7-6fbf-47ae-902e-03767bd9d9d4" width="200" title="Login Screen"/>
+<img src="https://github.com/lucky93agarwal/R2Rcare/assets/53622073/abd12dc0-83c9-4a8e-9a17-9d12139efbbb" width="200" title="Language Screen"/>
 
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/6c78a7ee-b389-4c56-89a3-a433cfa309d1" width="200" title="Register Screen"/>
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/5555e449-f194-4e5c-9bbc-225eafb996c7" width="200" title="Enter Code Screen"/>
-<img src="https://github.com/lucky93agarwal/react_native_testing/assets/53622073/d13a7c71-2d3e-463f-ad46-63f2548ef2cd" width="200" title="Notification Popup Screen"/>
 
 
 ## model API
@@ -161,4 +156,4 @@ To learn more about React Native, take a look at the following resources:
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/react_native_testing/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/R2Rcare/count.svg" alt ="Loading">
